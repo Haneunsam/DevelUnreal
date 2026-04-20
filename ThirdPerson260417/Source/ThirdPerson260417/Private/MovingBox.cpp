@@ -60,6 +60,5 @@ void AMovingBox::Tick(float DeltaTime)
 	RotateBox(DeltaTime);
 	MoveBox(DeltaTime);
 
-
 }
 

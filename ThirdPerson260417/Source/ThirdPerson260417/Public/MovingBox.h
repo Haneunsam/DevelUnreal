@@ -18,7 +18,7 @@ public:
 	UPROPERTY(EditAnyWhere, Category = "Movement")
 	FRotator RotationVelocity = FRotator(0, 0, 0);
 	UPROPERTY(EditAnyWhere, Category = "Movement")
-	float Speed = 2.0f;
+	float Speed = 2.0f;	
 	UPROPERTY(EditAnyWhere, Category = "Movement")
 	float Distance = 500.0f;
 public:	
