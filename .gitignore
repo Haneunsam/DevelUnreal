@@ -1,0 +1,53 @@
+# Unreal Engine basic folders
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Unreal Engine project folders
+**/Binaries/
+**/Build/
+**/DerivedDataCache/
+**/Intermediate/
+**/Saved/
+
+# Built data
+[Dd]ata[Cc]ache/
+
+# IDE files
+.vs/
+.vscode/
+*.sln
+*.vcxproj
+*.filters
+*.user
+*.suo
+*.db
+*.opendb
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+.idea/
+.vsconfig
+
+# Unreal Engine generated files
+**/Plugins/*/Binaries/
+**/Plugins/*/Intermediate/
+
+# Scripting files
+*.pyc
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Misc
+*.log
+*.bak
+*.tmp
+*.patch
+
+# External dependencies
+/External/
